@@ -2,373 +2,94 @@
 
 # 👋 Hi, I'm Mohsin Sheraz
 
-### ML Engineer · Data Scientist · Computer Vision Engineer · AI Enthusiast
+### ML Engineer · Computer Vision · Edge AI · Data Scientist
 
-<img src="https://komarev.com/ghpvc/?username=mohsinbhatti142&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=mohsinbhatti142&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/mohsinbhatti142)
+[![GitHub](https://img.shields.io/badge/GitHub-mohsinbhatti142-181717?style=flat-square&logo=github)](https://github.com/mohsinbhatti142)
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I’m a **Data Science professional and ML Engineer** focused on building practical machine learning and computer vision systems that move from **data → model → deployment → real-world application**.
+I am an **ML & Computer Vision Engineer** specializing in deploying high-performance models from **data → edge deployment → production pipelines**.
 
-My interests sit at the intersection of:
-
-**Machine Learning • Computer Vision • Deep Learning • Edge AI • NLP • MLOps • Data Science**
-
-- 🎓 **MS Data Science** — Shifa Tameer-e-Millat University
-- 🎓 **BS Mathematics** — University of Sargodha
-- 💼 **ML Engineer at Talkpool Pakistan**
-- 🤖 Focused on **Computer Vision, Edge AI and Machine Learning**
-- 🔬 Research interests: **Explainable AI, Predictive Maintenance, Edge AI and Sustainable ML**
-- ⚙️ Building with **Python, PyTorch, OpenCV, YOLO, TensorRT, FastAPI, Django, AWS and SQL**
-- 🛰️ Previous experience in **RF Engineering, telecom data and network performance analysis**
-- 🌱 Currently strengthening **Python problem solving, DSA and software engineering**
-- 🎯 Goal: become a strong **ML/AI Engineer** capable of taking models from experimentation to production
+- 💼 **ML Engineer** at **Talkpool Pakistan**
+- 🎓 **MS Data Science** (Shifa Tameer-e-Millat University) · **BS Mathematics** (University of Sargodha)
+- 🔬 **Research Focus:** Explainable AI (XAI), Predictive Maintenance, Edge AI, and Model Compression
+- ⚙️ **Core Stack:** Python, PyTorch, OpenCV, YOLO, TensorRT, FastAPI, Docker, AWS
 
 ---
 
-## 🧠 Tech Stack
+### 🧠 Tech Stack
 
-### Programming Languages
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
-</p>
-
-### AI / Machine Learning
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-</p>
-
-### Backend & APIs
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-</p>
-
-### Cloud, Edge & DevOps
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-</p>
-
-### AI / CV / Deployment
-`YOLO` `PyTorch` `OpenCV` `TensorRT` `NVIDIA Jetson` `Transformers` `RAG` `LlamaIndex`
-
----
-
-## 🔥 Featured Project — PPE Safety Detection
-
-A real-world **AI-powered Personal Protective Equipment detection system** designed for safety monitoring at telecom and construction sites.
-
-### Detection Classes
-
-| Class | PPE Item |
+| Domain | Technologies |
 |---|---|
-| 👤 | Person |
-| 🧤 | Safety Gloves |
-| 🦺 | Safety Harness |
-| ⛑️ | Safety Helmet |
-| 👞 | Safety Shoes |
-| 🦺 | Safety Vest |
-
-### System Pipeline
-
-```text
-CCTV Camera
-     │
-     ▼
-NVIDIA Jetson Orin Nano
-     │
-     ▼
-YOLO Object Detection
-     │
-     ├── Helmet
-     ├── Vest
-     ├── Gloves
-     ├── Shoes
-     └── Harness
-     │
-     ▼
-Safety Rule Engine
-     │
-     ▼
-Backend API
-     │
-     ▼
-AWS
-     │
-     ├── Evidence Storage
-     ├── Application Backend
-     └── Monitoring Dashboard
-```
-
-### Key Work
-
-- Dataset collection, cleaning and preprocessing
-- Image annotation and quality improvement
-- YOLO model training and evaluation
-- Small-object detection optimization
-- Data augmentation
-- TensorRT model conversion and optimization
-- NVIDIA Jetson Orin Nano deployment
-- Live Hikvision CCTV testing
-- Backend/API integration
-- AWS-based application and evidence workflow
-- Real-time safety monitoring
-
-**End-to-end workflow:**
-
-`Data → Annotation → Training → Evaluation → Optimization → TensorRT → Edge Deployment → CCTV → Backend → AWS`
+| **Core & Languages** | `Python` `SQL` `Bash` `C++` |
+| **ML & Deep Learning** | `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `XGBoost` |
+| **Computer Vision & Edge** | `OpenCV` `Ultralytics YOLO` `TensorRT` `ONNX` `NVIDIA Jetson` |
+| **Backend & Cloud** | `FastAPI` `Django` `PostgreSQL` `Docker` `AWS` `Git/GitHub` |
 
 ---
 
-## 🔬 Research — EcoX-Edge
+### 🔥 Featured Projects & Research
 
-### Explainable Edge-Deployable Transformers with Adaptive Compression for Sustainable Predictive Maintenance
+<details open>
+<summary><b>🛡️ Real-Time PPE Safety Detection System (Edge AI)</b></summary>
+<br>
 
-My MS Data Science research explores intelligent predictive maintenance systems designed for **accuracy, explainability, efficiency and edge deployment**.
+An end-to-end industrial safety monitoring solution deployed on **NVIDIA Jetson Orin Nano** with live RTSP CCTV feeds.
+- **Detections:** Helmet, Vest, Gloves, Safety Shoes, Harness, Person.
+- **Pipeline:** `CCTV Stream` ➔ `Jetson Orin Nano` ➔ `YOLO (TensorRT Engine)` ➔ `Rule Engine` ➔ `FastAPI Backend` ➔ `AWS Storage & Alerts`.
+- **Highlights:** Real-time multi-stream inference, custom synthetic augmentation, and automated safety rule violations.
 
-### Research Areas
+</details>
 
-- Predictive Maintenance
-- Remaining Useful Life (RUL) Prediction
-- Transformer Architectures
-- Explainable AI
-- SHAP & Attention-based Interpretation
-- Edge AI
-- Model Pruning
-- INT8 Quantization
-- Sustainable Machine Learning
-- Adaptive Decision Making
+<details>
+<summary><b>🔬 EcoX-Edge: Sustainable Predictive Maintenance & XAI</b></summary>
+<br>
 
-### Research Pipeline
+Master's research framework for Remaining Useful Life (RUL) estimation on high-frequency industrial telemetry.
+- **Architecture:** Hybrid CNN-Transformer backbone for multi-variate time series.
+- **Optimization:** Structured Pruning & INT8 Quantization for ultra-low latency edge devices.
+- **Explainability:** Integrated SHAP and multi-head attention maps for transparent engineering decisions.
 
-```text
-Industrial Sensor Data
-        │
-        ▼
-Data Preprocessing
-        │
-        ▼
-Windowing & Representation
-        │
-        ▼
-Data Augmentation
-        │
-        ▼
-CNN Feature Extraction
-        │
-        ▼
-Transformer Encoder
-        │
-        ▼
-RUL Prediction
-        │
-        ├───────────────┐
-        ▼               ▼
- Explainability    Model Compression
- SHAP + Attention  Pruning + INT8
-        │               │
-        └───────┬───────┘
-                ▼
-          Edge Deployment
-```
+</details>
 
 ---
 
-## 📊 Areas of Interest
-
-```text
-Machine Learning
-Computer Vision
-Deep Learning
-Edge AI
-Predictive Maintenance
-Explainable AI
-Natural Language Processing
-Generative AI
-RAG Systems
-MLOps
-Model Optimization
-AI Deployment
-```
-
----
-
-## 🛠️ Engineering Approach
-
-A practical ML system is more than training a model:
-
-```text
-Problem Definition
-       ↓
-Data Collection
-       ↓
-Data Quality
-       ↓
-Annotation / Labeling
-       ↓
-Exploratory Analysis
-       ↓
-Feature / Representation Engineering
-       ↓
-Model Development
-       ↓
-Evaluation
-       ↓
-Error Analysis
-       ↓
-Optimization
-       ↓
-API / Application Integration
-       ↓
-Deployment
-       ↓
-Monitoring
-       ↓
-Iteration
-```
-
-I’m particularly interested in the gap between **research prototypes and production-ready AI systems**.
-
----
-
-## 📚 Current Learning
-
-I’m currently strengthening the engineering side of my ML skill set:
-
-```text
-Python
-  ↓
-Problem Solving
-  ↓
-Data Structures & Algorithms
-  ↓
-Software Engineering
-  ↓
-Machine Learning
-  ↓
-Deep Learning
-  ↓
-Computer Vision
-  ↓
-MLOps / APIs
-  ↓
-Cloud & Edge Deployment
-  ↓
-Production AI
-```
-
-My current priority is becoming comfortable writing Python **from scratch**, especially for technical interviews, ML pipelines, APIs and production systems.
-
----
-
-## 📈 GitHub Statistics
-
-> These cards are generated as static SVG files by GitHub Actions and stored directly in this profile repository. This avoids the common reliability/rate-limit problems of public stats endpoints.
+### 📈 GitHub Statistics & Activity
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="Mohsin's GitHub Statistics"/>
+<img src="./profile/stats.svg" height="175" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" height="175" alt="Top Languages" />
 
-<img src="./profile/top-langs.svg" height="180" alt="Mohsin's Top Languages"/>
+<br/><br/>
+
+<img src="./profile/trophy.svg" width="95%" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mohsinbhatti142&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinbhatti142&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+### 🤝 Connect & Collaborate
+
+I am always open to collaborating on **Computer Vision, Edge AI, Predictive Maintenance, and Production MLOps**.
+
+- 💼 [LinkedIn](https://linkedin.com) *(Update your profile link)*
+- 🐙 [GitHub Profile](https://github.com/mohsinbhatti142)
+- ✉️ Reach out for ML & AI discussions or open-source collaboration!
 
 <div align="center">
-
-<img src="./profile/trophy.svg" alt="Mohsin's GitHub Trophies"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohsinbhatti142&theme=tokyonight&hide_border=true" alt="Mohsin's GitHub Streak"/>
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinbhatti142&theme=tokyo-night&hide_border=true&area=true" alt="Mohsin's GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://github.com/mohsinbhatti142">
-<img src="https://img.shields.io/badge/GitHub-mohsinbhatti142-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-Interested in collaborating on:
-
-- 🤖 Machine Learning / AI
-- 👁️ Computer Vision
-- 📊 Data Science
-- 🧠 Deep Learning
-- 🚀 Edge AI
-- 🔬 Research Projects
-- ☁️ ML Deployment & MLOps
-- 💡 Open-source AI projects
-
----
-
-## ⚡ My Journey
-
-```text
-Mathematics
-     ↓
-Data Science
-     ↓
-Machine Learning
-     ↓
-Deep Learning
-     ↓
-Computer Vision
-     ↓
-Edge AI
-     ↓
-Production ML Systems
-```
-
-### Building. Learning. Deploying. Improving.
-
-**One model, one problem, and one system at a time. 🚀**
-
----
-
-<div align="center">
-
-⭐ If you find my work interesting, consider following or starring a project!
-
+<sub>Built with precision · Driven by practical AI solutions</sub>
 </div>
