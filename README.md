@@ -86,7 +86,7 @@ Master's research framework for Remaining Useful Life (RUL) estimation on high-f
 
 I am always open to collaborating on **Computer Vision, Edge AI, Predictive Maintenance, and Production MLOps**.
 
-- 💼 [LinkedIn](https://linkedin.com) *(Update your profile link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohsin-sheraz-142nb/)
 - 🐙 [GitHub Profile](https://github.com/mohsinbhatti142)
 - ✉️ Reach out for ML & AI discussions or open-source collaboration!
 
