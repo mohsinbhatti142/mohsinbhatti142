@@ -76,7 +76,7 @@ Master's research framework for Remaining Useful Life (RUL) estimation on high-f
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinbhatti142&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinbhatti142&theme=tokyonight" width="95%" alt="Activity Overview" />
 
 </div>
 
